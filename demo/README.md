@@ -1,0 +1,1 @@
+# VSCode Git integration demo
